@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-My name is Alexander and I am a beginner self-taught full-stack web developer.
+My name is Alexander and I am a self-taught full-stack web developer.
 
 ### What I am doing?
 <p>
@@ -16,7 +16,7 @@ My name is Alexander and I am a beginner self-taught full-stack web developer.
 </p>
 
 <ul>
-  <li>Currently I'm creating various small projects to hone my skills.</li>
+  <li>Currently I'm creating various projects to hone my skills.</li>
  </ul>
 
 <!--
