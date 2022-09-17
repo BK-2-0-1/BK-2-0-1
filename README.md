@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-My name is Alexander and I am a self-taught full-stack web developer.
+My name is Alexander and I am a full-stack web developer.
 
 ### What I am doing?
 <p>
@@ -11,7 +11,6 @@ My name is Alexander and I am a self-taught full-stack web developer.
 <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JS"/>
 <img src ="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
 <img src ="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react"/>
-<img src ="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="Mongodb"/>
 <img src ="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="sass"/>
 </p>
 
