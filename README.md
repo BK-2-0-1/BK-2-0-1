@@ -14,6 +14,7 @@ My name is Alexander and I am a full-stack web developer.
 <img src ="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="sass"/>
 </p>
 
+![](https://github.com/BK-2-0-1/BK-2-0-1/blob/main/github-user-contribution.svg)
 <!--
 **BK-2-0-1/BK-2-0-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
